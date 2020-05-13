@@ -1,0 +1,10 @@
+C:\Users\guinh\source\repos\CalcJean\CalcJean\bin\Debug\CalcJean.exe.config
+C:\Users\guinh\source\repos\CalcJean\CalcJean\bin\Debug\CalcJean.exe
+C:\Users\guinh\source\repos\CalcJean\CalcJean\bin\Debug\CalcJean.pdb
+C:\Users\guinh\source\repos\CalcJean\CalcJean\obj\Debug\CalcJean.csprojAssemblyReference.cache
+C:\Users\guinh\source\repos\CalcJean\CalcJean\obj\Debug\CalcJean.Form1.resources
+C:\Users\guinh\source\repos\CalcJean\CalcJean\obj\Debug\CalcJean.Properties.Resources.resources
+C:\Users\guinh\source\repos\CalcJean\CalcJean\obj\Debug\CalcJean.csproj.GenerateResource.cache
+C:\Users\guinh\source\repos\CalcJean\CalcJean\obj\Debug\CalcJean.csproj.CoreCompileInputs.cache
+C:\Users\guinh\source\repos\CalcJean\CalcJean\obj\Debug\CalcJean.exe
+C:\Users\guinh\source\repos\CalcJean\CalcJean\obj\Debug\CalcJean.pdb
